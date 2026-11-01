@@ -70,7 +70,6 @@ Create a `.env` file in the project root:
 GROQ_API_KEY=your_groq_api_key
 ```
 
-Never share or upload your API key.
 
 ### 5. Start the application
 
