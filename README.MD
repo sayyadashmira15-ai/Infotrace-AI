@@ -111,6 +111,34 @@ http://127.0.0.1:8000/docs
 
 AI-generated findings are preliminary and should be independently verified using reliable sources. Confidence and risk scores are estimates, not guarantees of factual accuracy.
 
+## Example Usage
+
+### Example: Analyzing WHO Health Topics
+
+**Input URL:**
+
+https://www.who.int/health-topics
+
+**Steps:**
+1. Open the InfoTrace AI dashboard.
+2. Paste the WHO health topics URL.
+3. Click the Extract button to collect website content.
+4. Click Run Analysis to start AI-powered research analysis.
+
+**Example Analysis Output:**
+
+| Research Module | Example Result |
+|---|---|
+| Information Gap Radar | 5 information gaps identified |
+| Truth Clash Detector | No conflicting claims detected |
+| Information Expiry Tracker | 1 potentially outdated item |
+| Evidence Confidence Score | 20% |
+| Smart Verification Agent | 4 verification actions |
+| Missing Connection Finder | 3 possible connections |
+| Research Risk Report | Medium risk (45/100) |
+
+**Note:** These are example results from one test run, not guaranteed outputs. Actual results may vary depending on the website content and AI analysis.
+
 ## Project
 
 Developed for **SHINCHAN ONLINE HACKATHON 2026**.
